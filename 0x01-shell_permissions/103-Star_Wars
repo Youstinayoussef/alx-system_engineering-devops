@@ -1,0 +1,2 @@
+#!/bun/bash
+telnet towel.blinkenlights.nl
